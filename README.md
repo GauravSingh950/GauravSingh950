@@ -17,6 +17,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GauravSingh950&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkumar950&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravSingh950&theme=dark)
 
-![](https://komarev.com/ghpvc/?username=gauravkumar950&style=flat)
+![](https://komarev.com/ghpvc/?username=GauravSingh950&style=flat)
