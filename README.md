@@ -14,7 +14,7 @@
    </div>
 
 ### Languages,Tools and Databases:
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,kafka,mysql,mongodb,spring,maven,figma,github,html,angular,heroku,vercel,azure,cs,postman,selenium,react,jenkins,redis,git,githubactions&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,kafka,mysql,mongodb,spring,dotnet,figma,github,html,angular,heroku,vercel,azure,cs,postman,selenium,react,jenkins,redis,git,githubactions&perline=6)](https://skillicons.dev)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GauravSingh950&show_icons=true&theme=dark)
 
