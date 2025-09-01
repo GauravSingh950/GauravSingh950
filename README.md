@@ -16,8 +16,9 @@
 ### Languages,Tools and Databases:
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cs,html)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=angular,react,spring,dotnet,selenium)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,redis,kafka)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,jenkins,postman)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,redis,kafka)](https://skillicons.dev)  
+
 [![My Skills](https://skillicons.dev/icons?i=azure,heroku,vercel)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
