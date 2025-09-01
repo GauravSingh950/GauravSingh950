@@ -1,6 +1,7 @@
  <h1 align="center">Hi 👋, I'm Gaurav</h1>
 
 - 🔭 CS Undergrad at National Institute of Engineering, Mysore,India
+- 🌐 Intern at Maersk (FbM MGF-3, Bangalore GRF) 
 - 📫 Reach me at: gauravsingh950400@gmail.com
   
 ### Connect with me:
